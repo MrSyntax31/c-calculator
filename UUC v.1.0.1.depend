@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1538784759 source:c:\users\hp\desktop\bsit-1\computer programming\uuc v.1.0.1\main.cpp
+	<iostream>
+	<string.h>
+	<cmath>
+	<conio.h>
+	<math.h>
+
+1554624392 source:c:\users\hp\desktop\c++ prog\codeblocks\uuc v.1.0.1\main.cpp
+	<iostream>
+	<string.h>
+	<cmath>
+	<conio.h>
+	<math.h>
+
